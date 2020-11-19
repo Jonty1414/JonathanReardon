@@ -9,7 +9,7 @@
 //declaring variables needed for the program to run.
 let Targets = [];               //array of "Target" Objects;.
 
-let lives = 3;              //int; to keep track of lives lost.
+let lives = 3;                  //int; to keep track of lives lost.
 
 let targetPerSec = 1.00;        //float; ammount of targets that will spawn per second at the start of the game.
 
