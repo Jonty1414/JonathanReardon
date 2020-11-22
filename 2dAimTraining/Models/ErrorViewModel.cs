@@ -1,6 +1,6 @@
 using System;
 
-namespace _2dAimTraining.Models
+namespace JonathanReardon.Models
 {
     public class ErrorViewModel
     {

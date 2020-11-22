@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using _2dAimTraining.Models;
+using JonathanReardon.Models;
 
-namespace _2dAimTraining.Controllers
+namespace JonathanReardon.Controllers
 {
     public class HomeController : Controller
     {
