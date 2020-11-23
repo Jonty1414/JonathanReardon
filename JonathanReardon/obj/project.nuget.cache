@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mw6NuAfcK9tMgcMiD2/rGNsfu9wlSkLtUeSN8oKxSYZExLPW20cb+812E6zmGHLJJespKD11iITcx+kyr1/Lsw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Jonty\\source\\repos\\JonathanReardon\\JonathanReardon\\JonathanReardon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Jonty\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jonty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Jonty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
