@@ -92,14 +92,10 @@ D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcorea
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\JonathanReardon.TagHelpers.input.cache
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\JonathanReardon.TagHelpers.output.cache
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\JonathanReardon.RazorCoreGenerate.cache
-D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\Razor\Views\Home\AimTrainerGame.cshtml.g.cs
-D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\Razor\Views\Home\CV.cshtml.g.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\JonathanReardon.RazorTargetAssemblyInfo.cache
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\JonathanReardon.RazorTargetAssemblyInfo.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Release\netcoreapp3.0\JonathanReardon.Views.pdb
