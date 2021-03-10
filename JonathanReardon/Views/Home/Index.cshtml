@@ -1,21 +1,113 @@
-﻿<!--
- * Author: Jonathan Reardon.
- * Project: AimTrainerGame.
- *
- * Summary: this project is heavily inspire by a flash based game "http://www.aimbooster.com/", all visual aspects are being created using the p5.js library "https://p5js.org/".
--->
-
-@{
+﻿@{
     ViewData["Title"] = "Home Page";
 }
+<html>
+<head>
+    <title>Strata by HTML5 UP</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="~/assets/css/main.css" />
+</head>
+<body class="is-preload">
 
-    <div class="text-center">
-        <h1>projects</h1>
-        <p>
-            <a asp-area="" asp-controller="Home" asp-action="AimTrainerGame">2D Aim Trainer</a>
-        </p>
-        <h1>Curriculum Vitae</h1>
-        <p>
-            <a asp-area="" asp-controller="Home" asp-action="CV">CV</a>
-        </p>
+    <!-- Header -->
+    <header id="header">
+        <div class="inner">
+            <a href="#" class="image avatar"><img src="~/images/avatarJR.jpg" alt="" /></a>
+            <h1>
+                my name is <strong>Jonathan Reardon,</strong><br />
+                this is my portfolio to showcase my abilites and projects.<br />
+            </h1>
+        </div>
+    </header>
+
+    <!-- Main -->
+    <div id="main">
+        <!-- One -->
+        <section id="one">
+            <header class="major">
+                <h2><strong>About Me</strong></h2>
+            </header>
+            <p>
+                My goal is to establish a career in the Software Development industry, which I am very passionate about. I was
+                first introduced to C Programming and micro-processor programming during my time studying electrical
+                engineering at Ara Institute of technology.<br />
+                <br />
+                I am an eager to learn, newcomer to the industry. I have continued to develop my coding skills and extend them
+                through continual self-learning via online programming algorithm practice using codewars.com and video courses
+                though LinkedIn learning, while also learning as I went through making software projects.<br />
+                <br />
+                During my time working in the civil construction industry as a site traffic management supervisor I developed
+                strong time management, communication, and independent work ethic skills.<br />
+                <br />
+                As I am a quick learner, I progressed from the entry level traffic controller to the highest-level qualification in a very short period of time.
+                I have proven performance while working under pressure to hit strict deadlines for clients and while reacting to
+                emergency situations.
+            </p>
+            <ul class="actions">
+                <li><a href="~/files/JonathanReardonCV.pdf" class="button">view full CV</a></li>
+            </ul>
+        </section>
+
+        <!-- Two -->
+        <section id="two">
+            <h2>Projects</h2>
+            <div class="row">
+                <article class="col-6 col-12-xsmall work-item">
+                    <a href="~/AimTrainerGame/AimTrainerGame.html" target="_blank" class="image fit thumb"><img src="~/images/thumbs/aimtrainer.jpg" alt="" /></a>
+                    <h3>2D Aim Trainer</h3>
+                    <p>Created using p5.js a javascript library</p>
+                    <ul class="icons">
+                        <li><a href="https://github.com/Jonty1414/JonathanReardon/tree/master/JonathanReardon/wwwroot/AimTrainerGame" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
+                    </ul>
+                </article>
+                <article class="col-6 col-12-xsmall work-item">
+                    <a href="https://www.twitch.tv/popout/jontycr/chat?popout=" target="_blank" class="image fit thumb"><img src="~/images/thumbs/TwitchBot.jpg" alt="" /></a>
+                    <h3>Twitch Bot</h3>
+                    <p>game sate intergration for auto generating clips from the stream</p>
+                    <ul class="icons">
+                        <li><a href="https://github.com/Jonty1414/TwitchBot" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
+                    </ul>
+                </article>
+            </div>
+        </section>
+
+        <!-- Three -->
+        <section id="three">
+            <h2>Get In Touch</h2>
+            <div class="row">
+                <div class="col-4 col-12-small">
+                    <ul class="labeled-icons">
+                        <li>
+                            <h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
+                            <a href="https://bridgeitrules@gmail.com" target="_blank">jonty1414@gmail.com</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
     </div>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <ul class="icons">
+                <li><a href="https://github.com/Jonty1414" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
+                <li><a href="https://www.linkedin.com/in/jonathan-reardon-a4b118178/" target="_blank" class="icon brands fa-linkedin"><span class="label">Email</span></a></li>
+            </ul>
+            <ul class="copyright">
+                <li>&copy; J.R.</li>
+            </ul>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="~/assets/js/jquery.min.js"></script>
+    <script src="~/assets/js/jquery.poptrox.min.js"></script>
+    <script src="~/assets/js/browser.min.js"></script>
+    <script src="~/assets/js/breakpoints.min.js"></script>
+    <script src="~/assets/js/util.js"></script>
+    <script src="~/assets/js/main.js"></script>
+
+</body>
+</html>

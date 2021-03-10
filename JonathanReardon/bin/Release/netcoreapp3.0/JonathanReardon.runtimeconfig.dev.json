@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Jonty\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Jonty\\.nuget\\packages"
+    ]
+  }
+}

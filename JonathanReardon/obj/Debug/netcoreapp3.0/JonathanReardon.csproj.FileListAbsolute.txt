@@ -93,13 +93,9 @@ D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.TagHelpers.input.cache
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.TagHelpers.output.cache
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.RazorCoreGenerate.cache
-D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\Razor\Views\Home\AimTrainerGame.cshtml.g.cs
-D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.RazorTargetAssemblyInfo.cache
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.RazorTargetAssemblyInfo.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.Views.pdb
@@ -184,4 +180,4 @@ D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\bin\Debug\netcoreapp
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.csproj.CoreCompileInputs.cache
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.MvcApplicationPartsAssemblyInfo.cache
-D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\Razor\Views\Home\CV.cshtml.g.cs
+D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\Razor\Views\Home\index.cshtml.g.cs
