@@ -85,7 +85,6 @@ D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\bin\Debug\netcoreapp
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\bin\Debug\netcoreapp3.0\JonathanReardon.pdb
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\bin\Debug\netcoreapp3.0\JonathanReardon.Views.dll
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\bin\Debug\netcoreapp3.0\JonathanReardon.Views.pdb
-D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.csprojAssemblyReference.cache
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.AssemblyInfoInputs.cache
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.AssemblyInfo.cs
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.RazorAssemblyInfo.cache
@@ -181,3 +180,4 @@ D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\bin\Debug\netcoreapp
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.csproj.CoreCompileInputs.cache
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.MvcApplicationPartsAssemblyInfo.cache
 D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\Razor\Views\Home\index.cshtml.g.cs
+D:\Users\Jonty\source\repos\JonathanReardon\JonathanReardon\obj\Debug\netcoreapp3.0\JonathanReardon.csprojAssemblyReference.cache

@@ -158,6 +158,7 @@ function draw() {
             //makes all remaining targets on the canvas disapear by setting their radius (r), to 0;
             Targets.forEach(function(item){
                 item.r = 0;
+                item.x = 999999;
                 item.multiplyer = 0;
             })
 
@@ -197,6 +198,7 @@ function mousePressed() {
             //if the mouse is within the bounds of a target, that targets radius is reduced to 0 (not visable) and the number of "hits" is increments by 1.
             if (item.check()){
                 item.r = 0;
+                item.x = 999999;
                 item.multiplyer = 0;
                 hits++;
             }
