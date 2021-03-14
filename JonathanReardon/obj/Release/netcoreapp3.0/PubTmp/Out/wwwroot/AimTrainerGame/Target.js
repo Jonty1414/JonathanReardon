@@ -25,6 +25,7 @@ class Target {
         }
         else if (this.r < 0) {
             this.r = 0;
+            this.x = 999999;
             this.multiplyer = 0;
             lives--;
         }
