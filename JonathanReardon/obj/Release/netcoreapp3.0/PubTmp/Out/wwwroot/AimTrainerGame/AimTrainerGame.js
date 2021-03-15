@@ -55,6 +55,8 @@ let maxTimerVisual;             //"Button" object for showing maxTimerVisual
 
 let maxTargetsPerSecondVisual;  //"Button" object for showing maxTargetsPerSecondVisual
 
+let gameOverVisual;             //"Button" object for showing gameOverVisual;
+
 
 /* ::setup function::
  * this function is that start point for the program, this will run once the preload function is finished, 
@@ -77,7 +79,8 @@ function setup() {
     TargetsPerSecondVisual = new Button("Targets per second = ", 18, false, 500, 20);
 
     //"Button" objects that will display the highscore screen.
-    maxHighscoreVisual = new Button("highscore of current session", 25, false, 215, 325)
+    gameOverVisual = new Button("Game Over", 25, false, 9999999, 150);
+    maxHighscoreVisual = new Button("highscore of current session", 25, false, 215, 325);
     maxAccuracyVisual = new Button(maxAccuracy, 18, false, 225, 350);
     maxTimerVisual = new Button(maxTime, 18, false, 125, 350);
     maxTargetsPerSecondVisual = new Button("Targets per second = ", 18, false, 400, 350);
@@ -166,6 +169,8 @@ function draw() {
 
             StartRetryVisual.text = "retry?";   //sets the button in the middle of the screen to be retry instead of start.
 
+            gameOverVisual.x = 309;     //sets gameOverVisual x value to make it visable on screen
+
             //if timer is greater than maxTime, then this current run is a new highscore. new maxTime, maxAccuracy, and maxTargetsPerSecond have their new values set from this currednt run
             if (timer > maxTime) {
                 maxTime = timer;
@@ -179,6 +184,7 @@ function draw() {
         maxTimerVisual.text = intToTime(maxTime);
 
         StartRetryVisual.show();
+        gameOverVisual.show();
         maxAccuracyVisual.show();
         maxTargetsPerSecondVisual.show();
         maxTimerVisual.show();
@@ -219,6 +225,7 @@ function mousePressed() {
  */
 function resetGame() {
     started = true;
+    gameOverVisual.x = 999999;
     createTarget();
     lives = 3;
     Targets = [];
