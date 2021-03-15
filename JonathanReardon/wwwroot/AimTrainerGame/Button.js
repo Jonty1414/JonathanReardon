@@ -15,7 +15,7 @@ class Button {
 
         this.text = text;                           //string; the text to be displayed.
 
-        this.box = box;                             //boolean; if the text has abox around it, true/false.
+        this.box = box;                             //boolean; if the text has a box around it, true/false.
 
         this.x = x;                                 //int; x location within canvas.
 
