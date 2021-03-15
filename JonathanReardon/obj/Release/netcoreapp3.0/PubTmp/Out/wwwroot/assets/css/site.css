@@ -15,12 +15,14 @@ canvas {
     border-radius: 12px;
 }
 
-p{
+p {
     text-align: center;
+    color: #a2a2a2;
 }
 
-h1{
+h1 {
     text-align: center;
+    color: #a2a2a2;
 }
 
 .btn-primary {
@@ -74,6 +76,7 @@ html {
 body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
+    background-color: #151515;
 }
 
 .footer {
